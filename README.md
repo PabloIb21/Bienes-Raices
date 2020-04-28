@@ -1,2 +1,2 @@
 # Real State
-First website only using HTML and CSS, made to start in web development.
+My first website only uses HTML and CSS, made when I started in web development.
